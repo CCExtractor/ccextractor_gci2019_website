@@ -1038,7 +1038,7 @@ kbd {
     margin-top: 10rem;
   }
 
-  .pagesLinks {
+  a, .pagesLinks {
     color: #F99E4C;;
   }
 
