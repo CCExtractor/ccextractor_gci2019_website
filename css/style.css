@@ -1038,6 +1038,15 @@ kbd {
     margin-top: 10rem;
   }
 
+  .pagesLinks {
+    color: #F99E4C;;
+  }
+
+  .pagesLinks:hover {
+    color: #EF4648;
+    text-decoration: none;
+  }
+  
   .card-columns {
     @include media-breakpoint-only(lg) {
       -webkit-column-count: 4;
